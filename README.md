@@ -12,4 +12,3 @@ I am a full stack web developer.
 - **Python**
 - **Vue**
 - **SQL**
-
